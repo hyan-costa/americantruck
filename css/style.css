@@ -1,0 +1,102 @@
+
+/*-----------------------------------------------------------------------------------------------*/
+@font-face {
+    font-family: Pacifico;
+    src: url('fonts/Pacifico/Pacifico-Regular.ttf');
+}
+body
+ {
+ background-image: url("../imgs/imagem5.jpg");
+ background-position: center;
+ background-size: cover;
+width: 100%;
+}
+button
+{
+    border-radius: 20%;
+}
+
+#imagem
+{
+    background-image: url("../imgs/imagem2.jpg");
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
+}
+#cab
+{
+    padding-bottom: 10%;
+    background-color: rgb(43, 34, 33);
+
+}
+
+ #cab h1{
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.521);
+    color: rgb(255, 255, 255);
+    font-family: pacifico;
+    font-size: 2.3em;
+    margin: 0px;
+    padding: 0.5em;
+    border: 0px;
+}
+
+
+#imagem h2
+{
+    background-color: rgba(0, 0, 0, 0.616);
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 2em;
+}
+
+.texto 
+{
+    padding-top: 40%;
+    padding-bottom: 40%;
+}
+
+.page-footer a{
+    color: rgb(255, 255, 255);
+    text-align: center;
+
+    
+    
+}
+.page-footer
+{
+    background-color: rgba(165, 42, 42, 0.548);
+   
+    align-items: center;
+    padding-bottom: 3%;
+}
+
+.unico
+{
+    display: none;
+}
+@media screen and (min-width: 650px)
+{
+    .todos{
+        display: none;
+    }
+    .unico
+    {
+        display: block;
+
+    }
+    .unico div
+    {
+        margin: 20%;
+        
+        align-items: center;
+        background-color: black;
+        
+    }
+    .unico h1
+    {
+        color: aliceblue;
+        text-align: center;
+    }
+}

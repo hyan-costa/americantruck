@@ -1,0 +1,83 @@
+@font-face {
+    font-family: Pacifico;
+    src: url('fonts/Pacifico/Pacifico-Regular.ttf');
+}
+
+
+
+.asses button
+{
+    background-color: brown;
+}
+ #cab h1{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-family: pacifico;
+    font-size: 2em;
+    margin: 0px;
+    padding: 0.5em;
+    border: 0px;
+}
+.component
+{
+    display: flex;
+    justify-content: center;
+    margin: 0%;
+    padding: 0%;
+}
+#cab
+{
+    background-color: black;
+}
+div h2
+{
+    color: rgb(255, 255, 255);
+    font-size: 2em;
+    text-align: center;
+}
+body
+{
+    background-image: url("../imgs/imagem3.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+
+div h3
+{
+    color: rgb(255, 255, 255);
+    font-size: 1.4em;
+    text-align: center;
+}
+.active
+{
+    margin-bottom:15%;
+    background-color: rgba(0, 0, 0, 0.623); 
+    border-style:solid;
+    border-radius: 7%;
+    margin: 5%;
+}
+.active p
+{
+    margin-bottom: 0px;
+    color: aliceblue;
+}
+
+.active div{
+    display: flex;
+    justify-content: center;
+    text-align: right;
+    
+}
+.page-footer a{
+    color: rgb(255, 255, 255);
+    
+}
+.page-footer
+{
+    background-color: rgba(165, 42, 42, 0.548);
+   
+    align-items: center;
+    padding-bottom: 3%;
+}
+
