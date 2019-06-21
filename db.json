@@ -1,0 +1,458 @@
+{
+  "peterbilt_579_duty_cabin": [
+    {
+      "id": 1,
+      "nome": "peterbilt 579 duty cabin",
+      "marca": "peterbilt",
+      "serie": "579",
+      "chassi": "6X2",
+      "cabine": "duty cabin",
+      "volante": "direção na esquerda",
+      "potencia_do_motor": "370 cv(276KW)",
+      "torque_do_motor": "1350 lb-ft(1830 Nm)/1200 rpm",
+      "transmissao": "eaton FM-15E310B-LAS",
+      "capacidade_do_tanque": "150 gal",
+      "preco": "112.725",
+      "img": "peterbilt_579_duty_cabin.png"
+    }
+  ],
+  "peterbilt_389_day_cab": [
+    {
+      "id": 2,
+      "nome": "peterbilt 389 day cab",
+      "marca": "peterbilt",
+      "serie": "389",
+      "chassi": "6X2",
+      "cabine": "day cab",
+      "volante": "direção na esquerda",
+      "potencia_do_motor": "370 cv(276KW)",
+      "torque_do_motor": "1350 lb-ft(1830 Nm)/1200 rpm",
+      "transmissao": "eaton FM-15E310B-LAS",
+      "capacidade_do_tanque": "150 gal",
+      "preco": "118.435",
+      "img": "peterbilt 389 day cab.png"
+    }
+  ],
+  "peterbilt_579_stand_up_sleeper": [
+    {
+      "id": 3,
+      "nome": "peterbilt 579 stand up sleeper",
+      "marca": "peterbilt",
+      "serie": "579",
+      "chassi": "6X4",
+      "cabine": "stand up sleeper",
+      "volante": "direção na esquerda",
+      "potencia_do_motor": "370 cv(276KW)",
+      "torque_do_motor": "1350 lb-ft(1830 Nm)/1200 rpm",
+      "transmissao": "eaton FO-20E313A-MHP",
+      "capacidade_do_tanque": "220 gal",
+      "preco": "141.080",
+      "img": "peterbilt 389 day cab.png"
+    }
+  ],
+  "peterbilt_389_low_roof_sleeper": [
+    {
+      "id": 4,
+      "nome": "peterbilt 389 low roof sleeper",
+      "marca": "peterbilt",
+      "serie": "389",
+      "chassi": "6X4",
+      "cabine": "low roof sleeper",
+      "volante": "direção na esquerda",
+      "potencia_do_motor": "370 cv(276KW)",
+      "torque_do_motor": "1350 lb-ft(1830 Nm)/1200 rpm",
+      "transmissao": "eaton FO-20E313A-MHP",
+      "capacidade_do_tanque": "220 gal",
+      "preco": "145.945",
+      "img": "peterbilt 389 day cab.png"
+    }
+  ],
+  "peterbilt_579": [
+    {
+      "id": 5,
+      "nome": "peterbilt 579 stand up sleeper",
+      "marca": "peterbilt",
+      "serie": "389",
+      "chassi": "6X4",
+      "cabine": "stand up sleeper",
+      "volante": "direção na esquerda",
+      "potencia_do_motor": "455 cv(340KW)",
+      "torque_do_motor": "1350 lb-ft(1830 Nm)/900 rpm",
+      "transmissao": "eaton FO-20E313A-MHP",
+      "capacidade_do_tanque": "220 gal",
+      "preco": "145.945",
+      "img": "peterbilt_579.png"
+    }
+  ],
+  "kenworth_w900_day_cab": [
+    {
+      "id": 6,
+      "nome": "kenworth w900 day cab",
+      "marca": "kenworth",
+      "serie": "w900",
+      "chassi": "6X2",
+      "cabine": "day cab",
+      "volante": "direção na esquerda",
+      "potencia_do_motor": "370 cv(276KW)",
+      "torque_do_motor": "1350 lb-ft(1830 Nm)/900 rpm",
+      "transmissao": "eaton FO-20E313A-MHP",
+      "capacidade_do_tanque": "220 gal",
+      "preco": "113.815",
+      "img": "kenworth_w900_day_cab.png"
+    }
+  ],
+  "kenworth_t680_duty_day_cabin": [
+    {
+      "id": 7,
+      "nome": "kenworth t680 duty day cabin",
+      "marca": "kenworth",
+      "serie": "t680",
+      "chassi": "6X2",
+      "cabine": "day cabin",
+      "volante": "direção na esquerda",
+      "potencia_do_motor": "370 cv(276KW)",
+      "torque_do_motor": "1350 lb-ft(1830 Nm)/1200 rpm",
+      "transmissao": "eaton FO-20E313A-MHP",
+      "capacidade_do_tanque": "220 gal",
+      "preco": "116.365",
+      "img": "kenworth_t680_duty_day_cabin.png"
+    }
+  ],
+  "kenworth_t680_hi_rise_sleeper": [
+    {
+      "id": 8,
+      "nome": "kenworth t680 hi rise sleeper",
+      "marca": "kenworth",
+      "serie": "w900",
+      "chassi": "6X4",
+      "cabine": "hi rise sleeper",
+      "volante": "direção na esquerda",
+      "potencia_do_motor": "370 cv(276KW)",
+      "torque_do_motor": "1350 lb-ft(1830 Nm)/900 rpm",
+      "transmissao": "eaton FO-20E313A-MHP",
+      "capacidade_do_tanque": "220 gal",
+      "preco": "177.815",
+      "img": "kenworth_t680_hi_rise_sleeper.png"
+    }
+  ],
+  "kenworth_t680_mid_roof_sleeper": [
+    {
+      "id": 9,
+      "nome": "kenworth t680 mid roof sleeper",
+      "marca": "kenworth",
+      "serie": "w900",
+      "chassi": "6X4",
+      "cabine": "mid roof sleeper",
+      "volante": "direção na esquerda",
+      "potencia_do_motor": "370 cv(276KW)",
+      "torque_do_motor": "1350 lb-ft(1830 Nm)/900 rpm",
+      "transmissao": "eaton FO-20E313A-MHP",
+      "capacidade_do_tanque": "220 gal",
+      "preco": "174.895",
+      "img": "kenworth_t680_mid_roof_sleeper.png"
+    },
+    {
+      "id": 10
+    }
+  ],
+  "portland": [
+    {
+      "id": 10,
+      "cidade": "Portland",
+      "estado": "Oregon",
+      "rota": "405",
+      "garagem": "sim",
+      "oficina": "sim",
+      "concessionaria": "peterbilt",
+      "principal_empresa": "asteel"
+    }
+  ],
+  "salem": [
+    {
+      "id": 11,
+      "cidade": "salem",
+      "estado": "Oregon",
+      "rota": "5",
+      "garagem": "não",
+      "oficina": "não",
+      "concessionaria": "peterbilt",
+      "principal_empresa": "asteel"
+    }
+  ],
+  "eugene": [
+    {
+      "id": 12,
+      "cidade": "eugene",
+      "estado": "Oregon",
+      "rota": "5",
+      "garagem": "sim",
+      "oficina": "sim",
+      "concessionaria": "kenworth",
+      "principal_empresa": "plaster & sons"
+    }
+  ],
+  "bend": [
+    {
+      "id": 13,
+      "cidade": "bend",
+      "estado": "Oregon",
+      "rota": "97",
+      "garagem": "sim",
+      "oficina": "não",
+      "concessionaria": "kenworth",
+      "principal_empresa": "|4|2|print"
+    }
+  ],
+  "medford": [
+    {
+      "id": 14,
+      "cidade": "medford",
+      "estado": "Oregon",
+      "rota": "5",
+      "garagem": "não",
+      "oficina": "sim",
+      "concessionaria": "não",
+      "principal_empresa": "chemso"
+    }
+  ],
+  "ontario": [
+    {
+      "id": 15,
+      "cidade": "ontario",
+      "estado": "Oregon",
+      "rota": "93",
+      "garagem": "não",
+      "oficina": "não",
+      "concessionaria": "não",
+      "principal_empresa": "chemso"
+    }
+  ],
+  "elko": [
+    {
+      "id": 16,
+      "cidade": "elko",
+      "estado": "Nevada",
+      "rota": "580",
+      "garagem": "sim",
+      "oficina": "não",
+      "concessionaria": "não",
+      "principal_empresa": "paper"
+    }
+  ],
+  "reno": [
+    {
+      "id": 17,
+      "cidade": "reno",
+      "estado": "Nevada",
+      "rota": "580",
+      "garagem": "não",
+      "oficina": "sim",
+      "concessionaria": "não",
+      "principal_empresa": "plaster & sons"
+    }
+  ],
+  "carson_city": [
+    {
+      "id": 18,
+      "cidade": "carson city",
+      "estado": "Nevada",
+      "rota": "98",
+      "garagem": "sim",
+      "oficina": "não",
+      "concessionaria": "não",
+      "principal_empresa": "plaster & sons"
+    }
+  ],
+  "las_vegas": [
+    {
+      "id": 19,
+      "cidade": "las vegas",
+      "estado": "Nevada",
+      "rota": "98",
+      "garagem": "sim",
+      "oficina": "sim",
+      "concessionaria": "peterbilt, kenworth",
+      "principal_empresa": "home store"
+    }
+  ],
+  "sacramento": [
+    {
+      "id": 20,
+      "cidade": "sacramento",
+      "estado": "california",
+      "rota": "60",
+      "garagem": "sim",
+      "oficina": "sim",
+      "concessionaria": "peterbilt",
+      "principal_empresa": "home store"
+    }
+  ],
+  "san_francisco": [
+    {
+      "id": 21,
+      "cidade": "san francisco",
+      "estado": "california",
+      "rota": "60",
+      "garagem": "sim",
+      "oficina": "sim",
+      "concessionaria": "peterbilt",
+      "principal_empresa": "castline mining"
+    }
+  ],
+  "santa_cruz": [
+    {
+      "id": 22,
+      "cidade": "santa cruz",
+      "estado": "california",
+      "rota": "65",
+      "garagem": "não",
+      "oficina": "sim",
+      "concessionaria": "peterbilt",
+      "principal_empresa": "castline mining"
+    }
+  ],
+  "fresno": [
+    {
+      "id": 23,
+      "cidade": "fresno",
+      "estado": "california",
+      "rota": "60",
+      "garagem": "sim",
+      "oficina": "sim",
+      "concessionaria": "kenworth",
+      "principal_empresa": "haddok shipard"
+    }
+  ],
+  "bakersfield": [
+    {
+      "id": 24,
+      "cidade": "bakersfield",
+      "estado": "california",
+      "rota": "93",
+      "garagem": "sim",
+      "oficina": "sim",
+      "concessionaria": "não",
+      "principal_empresa": "haddok shipard"
+    }
+  ],
+  "los_angeles": [
+    {
+      "id": 25,
+      "cidade": "los angeles",
+      "estado": "california",
+      "rota": "580",
+      "garagem": "sim",
+      "oficina": "sim",
+      "concessionaria": "peterbilt, kenworth",
+      "principal_empresa": "haddok shipard"
+    }
+  ],
+  "san_diego": [
+    {
+      "id": 26,
+      "cidade": "san diego",
+      "estado": "california",
+      "rota": "580",
+      "garagem": "não",
+      "oficina": "sim",
+      "concessionaria": "kenworth",
+      "principal_empresa": "haddok shipard"
+    }
+  ],
+  "phoenix": [
+    {
+      "id": 27,
+      "cidade": "phoenix",
+      "estado": "Arizona",
+      "rota": "15",
+      "garagem": "não",
+      "oficina": "sim",
+      "concessionaria": "peterbilt",
+      "principal_empresa": "paper"
+    }
+  ],
+  "falgstaff": [
+    {
+      "id": 28,
+      "cidade": "flagstaff",
+      "estado": "Arizona",
+      "rota": "540",
+      "garagem": "não",
+      "oficina": "sim",
+      "concessionaria": "peterbilt",
+      "principal_empresa": "paper"
+    }
+  ],
+  "tucson": [
+    {
+      "id": 29,
+      "cidade": "tucson",
+      "estado": "Arizona",
+      "rota": "66",
+      "garagem": "sim",
+      "oficina": "sim",
+      "concessionaria": "não",
+      "principal_empresa": "home store"
+    }
+  ],
+  "sierra_vista": [
+    {
+      "id": 30,
+      "cidade": "sierra vista",
+      "estado": "Arizona",
+      "rota": "66",
+      "garagem": "sim",
+      "oficina": "sim",
+      "concessionaria": "não",
+      "principal_empresa": "asteel"
+    }
+  ],
+  "las_cruces": [
+    {
+      "id": 31,
+      "cidade": "las cruces",
+      "estado": "New Mexico",
+      "rota": "15",
+      "garagem": "não",
+      "oficina": "não",
+      "concessionaria": "não",
+      "principal_empresa": "castline mining"
+    }
+  ],
+  "roswell": [
+    {
+      "id": 32,
+      "cidade": "roswell",
+      "estado": "New Mexico",
+      "rota": "49",
+      "garagem": "sim",
+      "oficina": "sim",
+      "concessionaria": "não",
+      "principal_empresa": "castline mining"
+    }
+  ],
+  "albuquerque": [
+    {
+      "id": 33,
+      "cidade": "albuquerque",
+      "estado": "New Mexico",
+      "rota": "8",
+      "garagem": "sim",
+      "oficina": "sim",
+      "concessionaria": "peterbilt",
+      "principal_empresa": "paper"
+    }
+  ],
+  "santa_fe": [
+    {
+      "id": 34,
+      "cidade": "santa fe",
+      "estado": "New Mexico",
+      "rota": "580",
+      "garagem": "sim",
+      "oficina": "sim",
+      "concessionaria": "kenworth",
+      "principal_empresa": "paper"
+    }
+  ]
+}
